@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "skipp",
-    "slug": "skipp",
+    "name": "uber",
+    "slug": "uber",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "skipp",
+    "scheme": "uber",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
